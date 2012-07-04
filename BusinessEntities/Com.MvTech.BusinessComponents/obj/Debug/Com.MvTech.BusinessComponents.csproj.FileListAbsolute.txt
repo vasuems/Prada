@@ -1,0 +1,7 @@
+C:\Vasu\Vasu_Ems External HDD Backup\vasu_ems\Personal\Personal_Work\EBill\BusinessEntities\Com.MvTech.BusinessComponents\bin\Debug\Com.MvTech.BusinessComponents.dll
+C:\Vasu\Vasu_Ems External HDD Backup\vasu_ems\Personal\Personal_Work\EBill\BusinessEntities\Com.MvTech.BusinessComponents\bin\Debug\Com.MvTech.BusinessComponents.pdb
+C:\Vasu\Vasu_Ems External HDD Backup\vasu_ems\Personal\Personal_Work\EBill\BusinessEntities\Com.MvTech.BusinessComponents\obj\Debug\Com.MvTech.BusinessComponents.dll
+C:\Vasu\Vasu_Ems External HDD Backup\vasu_ems\Personal\Personal_Work\EBill\BusinessEntities\Com.MvTech.BusinessComponents\obj\Debug\Com.MvTech.BusinessComponents.pdb
+C:\Vasu\Vasu_Ems External HDD Backup\vasu_ems\Personal\Personal_Work\EBill\BusinessEntities\Com.MvTech.BusinessComponents\bin\Debug\nunit.framework.dll
+C:\Vasu\Vasu_Ems External HDD Backup\vasu_ems\Personal\Personal_Work\EBill\BusinessEntities\Com.MvTech.BusinessComponents\bin\Debug\nunit.framework.xml
+C:\Vasu\Vasu_Ems External HDD Backup\vasu_ems\Personal\Personal_Work\EBill\BusinessEntities\Com.MvTech.BusinessComponents\obj\Debug\Com.MvTech.BusinessComponents.csprojResolveAssemblyReference.cache

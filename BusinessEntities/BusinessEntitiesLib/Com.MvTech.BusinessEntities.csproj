@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C9DE9AB6-07B8-40CD-8D86-06B50637C11F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Com.MvTech.BusinessEntities</RootNamespace>
+    <AssemblyName>Com.MvTech.BusinessEntities</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Account\Account.cs" />
+    <Compile Include="Account\AccountReceivables.cs" />
+    <Compile Include="Account\AccountTransaction.cs" />
+    <Compile Include="Account\AccountTransactionDetails.cs" />
+    <Compile Include="Account\Bank.cs" />
+    <Compile Include="Account\CardPayment.cs" />
+    <Compile Include="Account\CashPayment.cs" />
+    <Compile Include="Account\ChequePayment.cs" />
+    <Compile Include="Account\Currency.cs" />
+    <Compile Include="Account\Document.cs" />
+    <Compile Include="Account\FinancialInstitute.cs" />
+    <Compile Include="Account\FundsTransfer.cs" />
+    <Compile Include="Account\IMPS.cs" />
+    <Compile Include="Account\Invoice.cs" />
+    <Compile Include="Account\InvoiceItem.cs" />
+    <Compile Include="Account\NEFT.cs" />
+    <Compile Include="Account\PaymentMethod.cs" />
+    <Compile Include="Account\Receipts.cs" />
+    <Compile Include="Account\RTGS.cs" />
+    <Compile Include="AddressTypeEnum.cs" />
+    <Compile Include="BpPermanentAddress.cs" />
+    <Compile Include="BpCommunicationAddress.cs" />
+    <Compile Include="EnumAttributes.cs" />
+    <Compile Include="EnumExtension.cs" />
+    <Compile Include="Security\Accountant.cs" />
+    <Compile Include="Security\Administrator.cs" />
+    <Compile Include="EBill\Bill.cs" />
+    <Compile Include="EBill\BillDetsils.cs" />
+    <Compile Include="Address.cs" />
+    <Compile Include="AuditDetails.cs" />
+    <Compile Include="BaseEntity.cs" />
+    <Compile Include="BP\BusinessPartner.cs" />
+    <Compile Include="City.cs" />
+    <Compile Include="Security\Clerk.cs" />
+    <Compile Include="Country.cs" />
+    <Compile Include="EntityTracking.cs" />
+    <Compile Include="State.cs" />
+    <Compile Include="Application.cs" />
+    <Compile Include="ChildMenu.cs" />
+    <Compile Include="Menu.cs" />
+    <Compile Include="ParentMenu.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Security\LoginDetails.cs" />
+    <Compile Include="Security\Role.cs" />
+    <Compile Include="Security\SecurityQuestion.cs" />
+    <Compile Include="Security\UserQuestionAnswerMapping.cs" />
+    <Compile Include="Tax.cs" />
+    <Compile Include="LandPhone.cs" />
+    <Compile Include="MobilePhone.cs" />
+    <Compile Include="Phone.cs" />
+    <Compile Include="Users\UserRole.cs" />
+    <Compile Include="Users\TradingPartnerPersonal.cs" />
+    <Compile Include="Users\User.cs" />
+    <Compile Include="Users\UserPhone.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <None Include="BillClassDiagram.cd" />
+    <None Include="BusinessPartnerClassDiagram.cd" />
+    <None Include="Users\UserClassDiagram.cd" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

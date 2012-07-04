@@ -1,0 +1,5 @@
+C:\Vasu\Vasu_Ems External HDD Backup\vasu_ems\Personal\Personal_Work\EBill\BusinessEntities\BusinessEntitiesLib\obj\Debug\BusinessEntitiesLib.csprojResolveAssemblyReference.cache
+C:\Vasu\Vasu_Ems External HDD Backup\vasu_ems\Personal\Personal_Work\EBill\BusinessEntities\BusinessEntitiesLib\bin\Debug\BusinessEntitiesLib.dll
+C:\Vasu\Vasu_Ems External HDD Backup\vasu_ems\Personal\Personal_Work\EBill\BusinessEntities\BusinessEntitiesLib\bin\Debug\BusinessEntitiesLib.pdb
+C:\Vasu\Vasu_Ems External HDD Backup\vasu_ems\Personal\Personal_Work\EBill\BusinessEntities\BusinessEntitiesLib\obj\Debug\BusinessEntitiesLib.dll
+C:\Vasu\Vasu_Ems External HDD Backup\vasu_ems\Personal\Personal_Work\EBill\BusinessEntities\BusinessEntitiesLib\obj\Debug\BusinessEntitiesLib.pdb

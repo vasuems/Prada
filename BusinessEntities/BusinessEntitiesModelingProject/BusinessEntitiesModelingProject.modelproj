@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{fda264f8-77b5-4719-94dc-bac6e9f6aff8}</ProjectGuid>
+    <ArchitectureToolsVersion>2.0.0.0</ArchitectureToolsVersion>
+    <Name>BusinessEntitiesModelingProject</Name>
+    <RootNamespace>BusinessEntitiesModelingProject</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\Debug\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\Release\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(VSToolsPath)\ArchitectureTools\Microsoft.VisualStudio.TeamArchitect.ModelingProject.targets" Condition="'$(VSToolsPath)' != ''" />
+  <ItemGroup>
+    <Content Include="BillClassDiagram.classdiagram">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="BillClassDiagram.classdiagram.layout">
+      <SubType>Content</SubType>
+      <DependentUpon>BillClassDiagram.classdiagram</DependentUpon>
+    </Content>
+    <Content Include="MenuApplicationClassDiagram.classdiagram">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MenuApplicationClassDiagram.classdiagram.layout">
+      <SubType>Content</SubType>
+      <DependentUpon>MenuApplicationClassDiagram.classdiagram</DependentUpon>
+    </Content>
+    <Content Include="SecurityClassDiagram.classdiagram">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="SecurityClassDiagram.classdiagram.layout">
+      <SubType>Content</SubType>
+      <DependentUpon>SecurityClassDiagram.classdiagram</DependentUpon>
+    </Content>
+    <Content Include="TaxClassDiagram.classdiagram">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="TaxClassDiagram.classdiagram.layout">
+      <SubType>Content</SubType>
+      <DependentUpon>TaxClassDiagram.classdiagram</DependentUpon>
+    </Content>
+    <Content Include="UserClassDiagram.classdiagram">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="UserClassDiagram.classdiagram.layout">
+      <SubType>Content</SubType>
+      <DependentUpon>UserClassDiagram.classdiagram</DependentUpon>
+    </Content>
+    <Folder Include="ModelDefinition\" />
+    <Content Include="BusinessPartnerClassDiagram.classdiagram">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="BusinessPartnerClassDiagram.classdiagram.layout">
+      <SubType>Content</SubType>
+      <DependentUpon>BusinessPartnerClassDiagram.classdiagram</DependentUpon>
+    </Content>
+    <Content Include="ModelDefinition\BusinessEntitiesModelingProject.uml">
+      <SubType>Content</SubType>
+    </Content>
+  </ItemGroup>
+</Project>
