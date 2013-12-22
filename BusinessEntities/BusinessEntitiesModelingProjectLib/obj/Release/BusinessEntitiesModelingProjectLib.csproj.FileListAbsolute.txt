@@ -1,4 +1,0 @@
-C:\Vasu\Vasu_Ems External HDD Backup\vasu_ems\Personal\Personal_Work\EBill\BusinessEntities\BusinessEntitiesModelingProjectLib\bin\Release\BusinessEntitiesModelingProjectLib.dll
-C:\Vasu\Vasu_Ems External HDD Backup\vasu_ems\Personal\Personal_Work\EBill\BusinessEntities\BusinessEntitiesModelingProjectLib\bin\Release\BusinessEntitiesModelingProjectLib.pdb
-C:\Vasu\Vasu_Ems External HDD Backup\vasu_ems\Personal\Personal_Work\EBill\BusinessEntities\BusinessEntitiesModelingProjectLib\obj\Release\BusinessEntitiesModelingProjectLib.dll
-C:\Vasu\Vasu_Ems External HDD Backup\vasu_ems\Personal\Personal_Work\EBill\BusinessEntities\BusinessEntitiesModelingProjectLib\obj\Release\BusinessEntitiesModelingProjectLib.pdb

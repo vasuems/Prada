@@ -1,5 +1,0 @@
-C:\Vasu\Vasu_Ems External HDD Backup\vasu_ems\Personal\Personal_Work\EBill\BusinessEntities\BusinessEntitiesModelingProjectLib\bin\Debug\BusinessEntitiesModelingProjectLib.dll
-C:\Vasu\Vasu_Ems External HDD Backup\vasu_ems\Personal\Personal_Work\EBill\BusinessEntities\BusinessEntitiesModelingProjectLib\bin\Debug\BusinessEntitiesModelingProjectLib.pdb
-C:\Vasu\Vasu_Ems External HDD Backup\vasu_ems\Personal\Personal_Work\EBill\BusinessEntities\BusinessEntitiesModelingProjectLib\obj\Debug\BusinessEntitiesModelingProjectLib.dll
-C:\Vasu\Vasu_Ems External HDD Backup\vasu_ems\Personal\Personal_Work\EBill\BusinessEntities\BusinessEntitiesModelingProjectLib\obj\Debug\BusinessEntitiesModelingProjectLib.pdb
-C:\Vasu\Vasu_Ems External HDD Backup\vasu_ems\Personal\Personal_Work\EBill\BusinessEntities\BusinessEntitiesModelingProjectLib\obj\Debug\BusinessEntitiesModelingProjectLib.csprojResolveAssemblyReference.cache

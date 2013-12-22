@@ -1,4 +1,0 @@
-C:\Vasu\Vasu_Ems External HDD Backup\vasu_ems\Personal\Personal_Work\EBill\BusinessEntities\Com.MvTech.Ui.ViewModel\bin\Debug\Com.MvTech.Ui.ViewModel.dll
-C:\Vasu\Vasu_Ems External HDD Backup\vasu_ems\Personal\Personal_Work\EBill\BusinessEntities\Com.MvTech.Ui.ViewModel\bin\Debug\Com.MvTech.Ui.ViewModel.pdb
-C:\Vasu\Vasu_Ems External HDD Backup\vasu_ems\Personal\Personal_Work\EBill\BusinessEntities\Com.MvTech.Ui.ViewModel\obj\Debug\Com.MvTech.Ui.ViewModel.dll
-C:\Vasu\Vasu_Ems External HDD Backup\vasu_ems\Personal\Personal_Work\EBill\BusinessEntities\Com.MvTech.Ui.ViewModel\obj\Debug\Com.MvTech.Ui.ViewModel.pdb
